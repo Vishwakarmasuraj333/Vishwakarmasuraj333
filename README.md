@@ -89,8 +89,8 @@
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/surajvishwakarma333
-* LinkedIn: https://linkedin.com/in/yourprofile
+* GitHub: https://github.com/Vishwakarmasuraj333/Vishwakarmasuraj333/
+* LinkedIn: https://in.linkedin.com/in/suraj-vishwakarma-2ab64436a
 
 ---
 
