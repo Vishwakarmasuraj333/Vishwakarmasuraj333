@@ -3,7 +3,7 @@
 # Hi 👋, I'm Suraj Vishwakarma
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;React+Developer;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;React+Developer;Always+Learning+New+Things&center=true&width=800&height=55">
 </p>
 
 ---
