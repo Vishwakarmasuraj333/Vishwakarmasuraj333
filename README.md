@@ -22,13 +22,13 @@
 | Semester | CGPA |
 | -------- | ---- |
 | Sem 1    | 6.7  |
-| Sem 2    | 8.0  |
+| Sem 2    | 8.3  |
 | Sem 3    | 6.7  |
 | Sem 4    | 8.3  |
 | Sem 5    | 8.0  |
 | Sem 6    | 9.0  |
 
-**Overall CGPA:** 8.3
+**Overall CGPA:** 9.0
 
 ---
 
