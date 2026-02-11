@@ -62,7 +62,7 @@
 
 * Responsive developer portfolio
 * Tech: HTML, CSS, JavaScript
-* GitHub: https://github.com/surajvishwakarma333/portfolio
+* GitHub: https://vishwakarmasuraj333.github.io/portfolio-suraj/
 
 ### 🛒 E-Commerce Web App
 
